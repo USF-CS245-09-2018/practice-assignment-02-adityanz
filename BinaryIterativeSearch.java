@@ -1,7 +1,7 @@
 public class BinaryIterativeSearch implements Practice2Search {
     @Override
     public String searchName() {
-        return "BinaryIterativeSearch";
+        return "binary-iterative";
     }
 
     @Override
